@@ -46,6 +46,7 @@ int main(){
     printf("A area de %s é: %f\n", cidade1, area1);
     printf("O PIB é: %f\n", pib1);
     printf("%s tem %d pontos turisticos\n", cidade1, pontostur1);
+    printf("Codigo: %s", cod1);
 
 
 }
